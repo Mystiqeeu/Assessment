@@ -138,3 +138,8 @@ public class Selenium_assessment {
         }
     }
 }
+
+
+Assessment question 3
+
+Got a problem with installing Java in my PC, hence, the code i try and error by looking at my Java code from before and seek some knowledge from YouTube on how to use selenium.
